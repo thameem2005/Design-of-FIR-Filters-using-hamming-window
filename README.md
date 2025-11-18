@@ -40,7 +40,7 @@ what is the input for this
 ```
 # OUTPUT
 <img width="1920" height="1140" alt="508713365-2630d6f7-1dab-434b-bd03-941c951f1fd1" src="https://github.com/user-attachments/assets/e5769096-546f-425f-9bd3-fa235e66c136" />
-# RESULT
+## RESULT
 
 Thus the design of low pass FIR digital filter was generated using SCILAB.
 
